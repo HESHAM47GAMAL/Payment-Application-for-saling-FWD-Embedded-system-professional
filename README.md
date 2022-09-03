@@ -23,5 +23,5 @@ I use ECLIPSE IDE c/c++
  
  ## Features
  <p>use text file as Data base (accounts_DB.txt , transaction_DB.text) as I get alot of experience</p>
- <p>#Note</p>
+ <p># Note</p>
  
