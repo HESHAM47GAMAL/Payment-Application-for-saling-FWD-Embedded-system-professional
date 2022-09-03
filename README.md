@@ -10,3 +10,8 @@ project simulate payment application as consist of Card, Terminal and Server tha
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/77234053/188287991-3477ba03-5504-4d45-a848-fe85dcca22cf.png">  
 </p>
+
+## Project Explorer
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/77234053/188287991-3477ba03-5504-4d45-a848-fe85dcca22cf.png">  
+</p>
