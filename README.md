@@ -4,6 +4,7 @@
 - [Application flowchart](#Application-flowchart)
 - [Project Explorer](#Project-Explorer)
 - [Features](#Features)
+- [Future work](#Future_work)
 
 ## Discription
 project simulate payment application as consist of Card, Terminal and Server that user can sale any thing as balance has this amount of money 
@@ -23,5 +24,8 @@ I use ECLIPSE IDE c/c++
  
  ## Features
  <p>use text file as Data base (accounts_DB.txt , transaction_DB.text) as I get alot of experience</p>
- ##### Note
- 
+  Note: I will upload video explain cause of existing Account_DBTemp.txt 
+  
+  ## Future work
+  <p>I only apply sale operation but there are another operation I will do soon</p>
+  <img src="https://user-images.githubusercontent.com/77234053/188288859-886d96a0-b7f3-4107-b830-a0f4f070bab4.png">
