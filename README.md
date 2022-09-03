@@ -8,5 +8,5 @@
 project simulate payment application as consist of Card, Terminal and Server that user can sale any thing as balance has this amount of money 
 ## Application flowchart
 <p align = "center">
-<img src="https://drive.google.com/file/d/1VC-DXtCd44FeGBau5n2QHuNSz71rmOnp/view?usp=sharing">  
+<img src="https://user-images.githubusercontent.com/77234053/188287991-3477ba03-5504-4d45-a848-fe85dcca22cf.png">  
 </p>
