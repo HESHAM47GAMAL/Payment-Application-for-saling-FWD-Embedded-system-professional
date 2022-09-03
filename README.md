@@ -4,7 +4,7 @@
 - [Application flowchart](#Application-flowchart)
 - [Project Explorer](#Project-Explorer)
 - [Features](#Features)
-- [Future work](#Future_work)
+- [Future work](#Future-work)
 
 ## Discription
 project simulate payment application as consist of Card, Terminal and Server that user can sale any thing as balance has this amount of money 
